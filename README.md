@@ -31,6 +31,10 @@ Tenho uma grande paixão por programação e estou sempre em busca de novos desa
 
 ###
 
+
+![snake gif](https://github.com/Dev-GabrielAlmeida/Dev-GabrielAlmeida/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 🏆 GitHub Trophies
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Dev-GabrielAlmeida&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4" />
