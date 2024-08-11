@@ -1,23 +1,17 @@
-# 👨‍💻 About Me:
+<h1 align="center">👋 Olá !</h1>
+
 Tenho uma grande paixão por programação e estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento. Adoro explorar diferentes linguagens e tecnologias, desde desenvolvimento web até ciência de dados.
 
 
-# 🛠 Language and tools:
+<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="37" alt="java logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="37" alt="django logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="37" alt="flask logo"  />
+<h1 align="center">🛠 Language and tools 🛠</h1>
+
+<br/>
+
+
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,vscode,django,flask" />
 </div>
 
 
@@ -31,9 +25,9 @@ Tenho uma grande paixão por programação e estou sempre em busca de novos desa
 
 ###
 
-
-![snake gif](https://github.com/Dev-GabrielAlmeida/Dev-GabrielAlmeida/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+<img src="https://github.com/Dev-GabrielAlmeida/Dev-GabrielAlmeida/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
