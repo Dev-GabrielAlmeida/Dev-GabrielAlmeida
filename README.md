@@ -11,7 +11,7 @@ Tenho uma grande paixão por programação e estou sempre em busca de novos desa
 
 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,vscode,django,flask" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,mysql,django,flask,vscode" />
 </div>
 
 
@@ -25,9 +25,11 @@ Tenho uma grande paixão por programação e estou sempre em busca de novos desa
 
 ###
 
+
 <div align="center">
 <img src="https://github.com/Dev-GabrielAlmeida/Dev-GabrielAlmeida/blob/output/github-contribution-grid-snake.svg"/>
 </div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
